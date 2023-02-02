@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=twmiles.twmiles)
 
-<p><img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>welcome to my page! <br/><br/>hi, i'm [Tracy Miles](https://www.twmiles.co), a passionate self-taught javascript web developer and motivated — recent informatics and cybersec grad from 🇺🇸 <b>Indianapolis, Indiana</b> currently living in 🇺🇸 <b>Jersey City, New Jersey</b>.</p>
+<p><img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>welcome to my page! <br/><br/>hi, i'm [Tracy Miles](https://twmiles.co), a passionate self-taught javascript web developer and motivated — recent informatics and cybersec grad from 🇺🇸 <b>Indianapolis, Indiana</b> currently living in 🇺🇸 <b>Jersey City, New Jersey</b>.</p>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
