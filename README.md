@@ -8,7 +8,7 @@ hi, i'm [Tracy](https://twmiles.co/), a passionate self-taught javascript web de
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 💼 any freelance work? shoot me a msg @, [email](mailto:tracywmiles@gmail.com) :)
+- 💼 any freelance work? shoot me a msg @, [email](mailto:tracywmiles@gmail.com)
 - 💬 ask me about anything, i am happy to help;
 
 **⚡️ things i code with:**  
@@ -57,5 +57,3 @@ if you like what i do, maybe consider buying me a coffee/tea 😊☕️
 📈 **my github stats:**
 
 ![Tracy's GitHub stats](https://github-readme-stats.vercel.app/api?username=twmiles&show_icons=true&count_private=true&theme=tokyonight)
-
-[Tracy](https://twmiles.co/)
