@@ -1,7 +1,8 @@
-<p><a href="https://www.linkedin.com/in/twmiles/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p><a href="https://www.linkedin.com/in/twmiles/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><p>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=twmiles.twmiles)
+
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>welcome to my page!<br/><br/>
-</p>
 
 hi, i'm [Tracy](https://twmiles.co/), a passionate self-taught javascript web developer and motivated — recent informatics and cybersec grad from 🇺🇸 <b>Indianapolis, Indiana</b> currently living in 🇺🇸 <b>Jersey City, New Jersey</b>.
 
