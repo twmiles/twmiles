@@ -59,4 +59,4 @@ if you like what i do, maybe consider buying me a coffee/tea 😊☕️
 ![Tracy's GitHub stats](https://github-readme-stats.vercel.app/api?username=twmiles&show_icons=true&count_private=true&theme=tokyonight)
 
 💼 **where i'm working:**
-![](https://github.com/twmiles/sg.gif)
+![](https://github.com/twmiles/twmiles/blob/main/sg.gif)
