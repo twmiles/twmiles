@@ -4,7 +4,7 @@
 
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>welcome to my page!
 
-hi, i'm [Tracy](https://twmiles.co/), a passionate self-taught javascript web developer and motivated — recent informatics and cybersec grad from 🇺🇸 <b>Indianapolis, Indiana</b> currently living in 🇺🇸 <b>Jersey City, New Jersey</b>.
+hi, i'm [Tracy](https://twmiles.co/), a passionate self-taught javascript web developer and motivated — recent informatics and cybersec grad from indiana university! i'm from 🇺🇸 <b>Indianapolis, Indiana</b> currently living in 🇺🇸 <b>Jersey City, New Jersey</b>.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
