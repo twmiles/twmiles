@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=twmiles.twmiles)
 
-<p><img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>welcome to my page! hi, i'm [Tracy Miles], a passionate self-taught javascript web developer and a freelance developer from 🇺🇸 <b>Indianapolis, Indiana</b> currently living in 🇺🇸 <b>Jersey City, NJ</b>.</p>
+<p><img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>welcome to my page! hi, i'm [Tracy Miles], a passionate self-taught javascript web developer and motivated - recent informatics and cybersec grad from 🇺🇸 <b>Indianapolis, Indiana</b> currently living in 🇺🇸 <b>Jersey City, NJ</b>.</p>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -31,7 +31,7 @@
   <img alt="Mac OS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
   <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img alt="Windows" sec="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 **🕹 hobbies:**
